@@ -16,19 +16,6 @@ I am a **pre-final year B.Tech student** specializing in **Cloud Computing & Vir
   
 ---
 
-## 🔥 Featured Projects
-
-### 📈 Automated Parking System
-Vehicle license plate recognition for automated entry/exit tracking and **database-driven owner identification**.
-
-### ☁️ Resource Scaling in Cloud Using Monte Carlo Algorithm
-A **cloud resource scaling model** to optimize resource allocation and minimize over-provisioning.
-
-### ⛅ Weather Website
-A **real-time weather application** with API integration and custom error handling.
-
----
-
 ## 🚀 Skills & Tools
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
