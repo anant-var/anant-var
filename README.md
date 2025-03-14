@@ -12,7 +12,7 @@ I am a **pre-final year B.Tech student** specializing in **Cloud Computing & Vir
 - 💻 **Tech Stack:** C, C++, Python, Java, HTML, CSS, JavaScript, AWS, SQL, Cloud Computing
 - 🌱 Currently exploring **Docker, Kubernetes, and AI-driven automation**
 - 🎯 Seeking **software engineering internships** 
-- 🤝 **Marketing Manager, UPES Open Community**
+
   
 ---
 
