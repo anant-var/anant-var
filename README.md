@@ -35,6 +35,6 @@ I am a **pre-final year B.Tech student** specializing in **Cloud Computing & Vir
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/anant-vardhan-bartwal-745b96250/)
 - 📧 Email: anantvardhanb@gmail.com
-- 🔗 [Portfolio]([https://github.com/anant-var](https://anant-var.github.io/My-Portfolio/)
+- 🔗 [Portfolio] : (https://github.com/anant-var](https://anant-var.github.io/My-Portfolio/)
 
 Let's build something amazing together! 🚀
