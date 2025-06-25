@@ -28,7 +28,8 @@ I am a **pre-final year B.Tech student** specializing in **Cloud Computing & Vir
 ---
 
 ## 📊 GitHub Stats
-![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-var&show_icons=true&theme=radical)
+![Anant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anant-var&theme=github-compact)
+
 
 ---
 
