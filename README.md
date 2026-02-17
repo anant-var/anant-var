@@ -9,7 +9,7 @@ I am a **pre-final year B.Tech student** specializing in **Cloud Computing & Vir
 ## 🌟 About Me
 - 🎓 **B.Tech in Computer Science (2022-2026)** | UPES, Dehradun | 
 - 🏆 **AWS Certified** | Multiple Cloud & Security Certifications
-- 💻 **Tech Stack:** C, C++, Python, Java, HTML, CSS, JavaScript, AWS, SQL, Cloud Computing
+- 💻 **Tech Stack:** Python, Java, HTML, CSS, JavaScript, AWS, SQL, Cloud Computing
 - 🌱 Currently exploring **Docker, Kubernetes, and AI-driven automation**
 - 🎯 Seeking **software engineering internships** 
 
@@ -17,8 +17,6 @@ I am a **pre-final year B.Tech student** specializing in **Cloud Computing & Vir
 ---
 
 ## 🚀 Skills & Tools
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
