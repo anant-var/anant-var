@@ -30,8 +30,7 @@ I am a **B.Tech graduate** specializing in **Computer Science and Engineering (C
 ---
 
 ## 📊 GitHub Stats
-
-[![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-var&show_icons=true&theme=radical)](https://github.com/anant-var)
 
 ---
 
