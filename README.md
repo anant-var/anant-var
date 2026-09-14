@@ -29,11 +29,6 @@ I am a **B.Tech graduate** specializing in **Computer Science and Engineering (C
 
 ---
 
-## 📊 GitHub Stats
-[![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-var&show_icons=true&theme=radical)](https://github.com/anant-var)
-
----
-
 ## 📬 Let's Connect!
 
 *   💼 [LinkedIn](https://www.linkedin.com/in/anant-vardhan-bartwal-745b96250/)
