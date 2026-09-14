@@ -37,7 +37,7 @@ I am a **B.Tech graduate** specializing in **Computer Science and Engineering (C
 
 ## 📬 Let's Connect!
 
-*   💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/anant-vardhan-bartwal-745b96250/))
+*   💼 [LinkedIn](https://www.linkedin.com/in/anant-vardhan-bartwal-745b96250/)
 *   📧 **Email:** anantvardhanb@gmail.com
 *   🐙 [GitHub](https://github.com/anant-var)
 
